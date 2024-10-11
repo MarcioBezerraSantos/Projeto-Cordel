@@ -78,6 +78,7 @@ background-size: cover;
 section#img02 {
 background-image: url(../imagens/P29-11-15_15.36[01].jpg);
 background-size: cover;
+background-position: center;
 }
 
 footer {
@@ -88,4 +89,7 @@ footer {
 footer > p {
     color: white;
 }
+
+
+
 
